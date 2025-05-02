@@ -7,3 +7,8 @@ int a=10 , b=15;
 int sub;
 sum = a - b;
 Console.WriteLine($" The substraction of two numbers is : {sub} ");
+
+int a=10 , b=15;
+int mult;
+mult = a * b;
+Console.WriteLine($" The Multiplication of two numbers is : {mult} ");

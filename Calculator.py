@@ -12,3 +12,8 @@ int a=10 , b=15;
 int mult;
 mult = a * b;
 Console.WriteLine($" The Multiplication of two numbers is : {mult} ");
+
+int a=10 , b=15;
+int div;
+div = a / b;
+Console.WriteLine($" The Division of two numbers is : {div} ");
